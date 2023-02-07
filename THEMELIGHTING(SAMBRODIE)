@@ -132,3 +132,6 @@ void loop()
 // Send the color instructions to the LED strip.
  // FastLED.show();
 //}
+
+
+// Sam is cool. Brodie did nothing
